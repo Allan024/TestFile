@@ -3,11 +3,11 @@ package org.git;
 public class Git_class 
 {
 	
-	public Git_class() 
+	/*public Git_class() 
 	{
 		System.out.println("Sample Class");
 	}
-	
+	*/
 	public void  add() 
 	{
 		int a , b;
